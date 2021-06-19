@@ -1,0 +1,78 @@
+* {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border-width: 0px;
+  border-style: none;
+  border-spacing: 0px;
+  position: relative;
+  text-align: center;
+}
+
+header {
+  height: 300px;
+}
+
+body {
+  background-color: #d5ecc2;
+  line-height: 250%;
+}
+
+h1 {
+  font-family: 'Tangerine', cursive;
+  font-size: 500%;
+}
+
+h1, h2 {
+  color: #66BFBF;
+}
+
+h3, a {
+  color: #11999E;
+}
+
+h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 150%;
+}
+
+hr {
+  background-color:  #f55c47;
+  border: 0;
+
+  box-shadow: 0px 3px 5px 0px #564a4a;
+  height: 2px;
+  width: 75%;
+}
+
+.profile-picture {
+  display: none;
+  width: 300px;
+  height: 300px;
+}
+
+.mountain {
+  width: 50%;
+  bottom: 0%;
+  left: 25%;
+  position: fixed;
+}
+
+.cloud {
+  width: 10%;
+}
+
+.cloud-one {
+  top: 10%;
+  left: 60%;
+  position: fixed;
+}
+
+.cloud-two {
+  top: 30%;
+  left: 30%;
+  position: fixed;
+}
